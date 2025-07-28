@@ -1,0 +1,20 @@
+# Node / JS / Web
+node_modules/
+dist/
+build/
+.cache/
+*.log
+*.zip
+*.tar.gz
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
